@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.navbar {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.navbar .navbar-brand {
+  font-weight: 500;
+  color: #11245a;
+}
+.navbar .nav-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.05rem;
+}
+.navbar .nav-link.active {
+  color: #e93b81;
+}
+
+.hero {
+  background-image: linear-gradient(to right, rgba(67, 67, 67, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%), url("https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+}
+.hero h1 {
+  font-weight: 500;
+}
+.hero p {
+  font-size: 0.9rem;
+  max-width: 30rem;
+  margin: 20px auto;
+}
+.hero .btn {
+  font-weight: 500;
+  font-size: 0.9rem;
+  padding: 8px 22px;
+  border-radius: 0;
+}/*# sourceMappingURL=style_20230222072531.css.map */

@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.navbar {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.navbar .navbar-brand {
+  font-weight: 500;
+  color: #11245a;
+}
+.navbar .nav-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.05rem;
+}
+.navbar .nav-link.active {
+  color: #e93b81;
+}
+
+.hero {
+  background-image: url("./img/Hero.jpg");
+}/*# sourceMappingURL=style_20230222005058.css.map */

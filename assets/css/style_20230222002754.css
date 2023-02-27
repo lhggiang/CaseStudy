@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.navbar .nav-link {
+  font-size: 1.5rem;
+  font-weight: 600;
+}/*# sourceMappingURL=style_20230222002754.css.map */

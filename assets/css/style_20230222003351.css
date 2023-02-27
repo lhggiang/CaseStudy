@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.navbar {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.navbar .nav-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.05rem;
+}/*# sourceMappingURL=style_20230222003351.css.map */
